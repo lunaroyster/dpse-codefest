@@ -55,6 +55,10 @@
             "6": {
               "title": "Advertisment",
               "id": 30
+            },
+            "7": {
+              "title": "Prepare rules and other reading material",
+              "id": 31
             }
           }
         }
@@ -118,5 +122,6 @@
         "style": {}
       }
     }
-  }
+  },
+  "links": []
 }
