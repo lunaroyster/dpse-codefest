@@ -98,6 +98,14 @@
             "5": {
               "title": "Food",
               "id": 24
+            },
+            "6": {
+              "title": "Talk to Sponsors about funds",
+              "id": 28
+            },
+            "7": {
+              "title": "Entrar message",
+              "id": 29
             }
           }
         }
