@@ -65,15 +65,7 @@
             "4": {
               "title": "Sponsors",
               "id": 21,
-              "ideas": {
-                "1": {
-                  "title": "Advertisment",
-                  "id": 30,
-                  "attr": {
-                    "style": {}
-                  }
-                }
-              }
+              "ideas": {}
             },
             "5": {
               "title": "Prepare Presentation",
@@ -135,10 +127,6 @@
             }
           }
         },
-        "2": {
-          "title": "Advertisement (entrar and other)",
-          "id": 44
-        },
         "0.5": {
           "title": "Remaining",
           "id": 9,
@@ -169,6 +157,13 @@
             "7": {
               "title": "Entrar message",
               "id": 29
+            },
+            "8": {
+              "title": "Advertisement (entrar and other)",
+              "id": 44,
+              "attr": {
+                "style": {}
+              }
             }
           }
         }
