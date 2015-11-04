@@ -48,7 +48,15 @@
           "ideas": {
             "1": {
               "title": "Design T-Shirts",
-              "id": 13
+              "id": 13,
+              "attr": {
+                "position": [
+                  96.50689697265625,
+                  -254.00696563720703,
+                  1
+                ],
+                "style": {}
+              }
             },
             "3": {
               "title": "Make Video",
@@ -56,7 +64,16 @@
             },
             "4": {
               "title": "Sponsors",
-              "id": 21
+              "id": 21,
+              "ideas": {
+                "1": {
+                  "title": "Advertisment",
+                  "id": 30,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
             },
             "5": {
               "title": "Prepare Presentation",
@@ -86,10 +103,6 @@
                   "id": 37
                 }
               }
-            },
-            "6": {
-              "title": "Advertisment",
-              "id": 30
             },
             "7": {
               "title": "Prepare rules and other reading material",
@@ -121,6 +134,10 @@
               }
             }
           }
+        },
+        "2": {
+          "title": "Advertisement (entrar and other)",
+          "id": 44
         },
         "0.5": {
           "title": "Remaining",
