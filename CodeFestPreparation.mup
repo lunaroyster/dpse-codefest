@@ -60,7 +60,28 @@
             },
             "5": {
               "title": "Prepare Presentation",
-              "id": 26
+              "id": 26,
+              "ideas": {
+                "1": {
+                  "title": "Rules",
+                  "id": 33
+                },
+                "2": {
+                  "title": "Git",
+                  "id": 34
+                },
+                "3": {
+                  "title": "Sponsors",
+                  "id": 35
+                },
+                "0.5": {
+                  "title": "Introduction",
+                  "id": 36,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
             },
             "6": {
               "title": "Advertisment",
