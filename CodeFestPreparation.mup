@@ -102,6 +102,10 @@
               "attr": {
                 "style": {}
               }
+            },
+            "8": {
+              "title": "Preparing the invites",
+              "id": 49
             }
           }
         }
@@ -153,10 +157,6 @@
             "6": {
               "title": "Talk to Sponsors about funds",
               "id": 28
-            },
-            "7": {
-              "title": "Entrar message",
-              "id": 29
             },
             "8": {
               "title": "Advertisement (entrar and other)",
