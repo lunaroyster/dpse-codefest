@@ -24,6 +24,13 @@
               "attr": {
                 "style": {}
               }
+            },
+            "3": {
+              "title": "Invitation for Schools",
+              "id": 17,
+              "attr": {
+                "style": {}
+              }
             }
           }
         },
@@ -42,13 +49,6 @@
             "1": {
               "title": "Design T-Shirts",
               "id": 13
-            },
-            "2": {
-              "title": "Invitation for Schools",
-              "id": 17,
-              "attr": {
-                "style": {}
-              }
             },
             "3": {
               "title": "Make Video",
