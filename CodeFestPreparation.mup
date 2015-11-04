@@ -17,6 +17,13 @@
             "1": {
               "title": "Website",
               "id": 12
+            },
+            "2": {
+              "title": "SignUp Portal",
+              "id": 32,
+              "attr": {
+                "style": {}
+              }
             }
           }
         },
@@ -38,7 +45,10 @@
             },
             "2": {
               "title": "Invitation for Schools",
-              "id": 17
+              "id": 17,
+              "attr": {
+                "style": {}
+              }
             },
             "3": {
               "title": "Make Video",
@@ -58,7 +68,10 @@
             },
             "7": {
               "title": "Prepare rules and other reading material",
-              "id": 31
+              "id": 31,
+              "attr": {
+                "style": {}
+              }
             }
           }
         }
