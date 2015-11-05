@@ -50,11 +50,6 @@
               "title": "Design T-Shirts",
               "id": 13,
               "attr": {
-                "position": [
-                  96.50689697265625,
-                  -254.00696563720703,
-                  1
-                ],
                 "style": {}
               }
             },
@@ -94,6 +89,14 @@
                   "title": "Jokes and Statistics",
                   "id": 37
                 }
+              },
+              "attr": {
+                "position": [
+                  204.5,
+                  -1.0069656372070312,
+                  2
+                ],
+                "style": {}
               }
             },
             "7": {
@@ -102,10 +105,6 @@
               "attr": {
                 "style": {}
               }
-            },
-            "8": {
-              "title": "Preparing the invites",
-              "id": 49
             }
           }
         }
