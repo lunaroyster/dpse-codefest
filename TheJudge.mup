@@ -1,0 +1,11 @@
+{
+  "title": "TheJudge",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Config",
+      "id": 2
+    }
+  }
+}
