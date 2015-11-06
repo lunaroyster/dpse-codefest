@@ -5,7 +5,35 @@
   "ideas": {
     "1": {
       "title": "Config",
-      "id": 2
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Get team data",
+          "id": 4,
+          "ideas": {}
+        },
+        "2": {
+          "title": "Create DB in SQL",
+          "id": 9
+        },
+        "1.5": {
+          "title": "Get User data",
+          "id": 13
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-1": {
+      "title": "Function",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Load from DB",
+          "id": 6
+        }
+      }
     }
   }
 }
