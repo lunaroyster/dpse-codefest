@@ -31,9 +31,23 @@
       "ideas": {
         "1": {
           "title": "Load from DB",
-          "id": 6
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "Populate Team list",
+              "id": 18
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Display Factors",
+          "id": 24
         }
       }
     }
-  }
+  },
+  "links": []
 }
